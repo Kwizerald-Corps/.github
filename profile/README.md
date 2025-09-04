@@ -9,10 +9,11 @@
     Some of our projects are open-source, allowing anyone to use, learn from, and contribute to them.
   </p>
 </div>
-<div style="border-left: 4px solid #FFD700;">
-    <h3>⚠️ Join Us</h3>
-    <p>
-      We are looking for <b>volunteer developers</b> to help developing futur project's !<br>
-      If you're intrested, feel free to contribute or reach out.
-    </p>
+<div>
+  <img src="vertical-bar.svg" width="12" height="80" align="left" alt=""/>
+  <b>⚠️ Join Us</b>
+  <p>
+    We are looking for <b>volunteer developers</b> to help developing futur project's !<br>
+    If you're intrested, feel free to contribute or reach out.
+  </p>
 </div>
