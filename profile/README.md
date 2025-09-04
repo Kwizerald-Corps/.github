@@ -1,6 +1,6 @@
 <div align="center">
   <img src="/emerald_banner.jpg" alt="Kwizerald Banner"/>
-  <h3>🍃 Building smarter Discord experiences together.</h3>
+  <h3>🍃 Crafting Discord tools that connect communities.</h3>
   <p>
     We are a developer group focused on building <b>discord bots</b> that make communities more engaging and easier to manage.<br>
     From moderation tools and ticket systems to fun games and interactive features. Our projects aim to simplify daily interactions and bring people together.
