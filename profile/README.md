@@ -9,6 +9,7 @@
     Some of our projects are open-source, allowing anyone to use, learn from, and contribute to them.
   </p>
 </div>
+<br>
 <div>
   <img src="vertical-bar.svg" width="12" height="80" align="left" alt=""/>
   <b>⚠️ Join Us</b>
